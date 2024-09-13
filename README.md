@@ -10,4 +10,6 @@
 ## now we will connect with github
 ## then push it 
 ## make another file app.py and main.py and add them
+## to add multiple files at atime we only write git add .
+
 
